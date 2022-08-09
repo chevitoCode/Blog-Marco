@@ -7,3 +7,5 @@ para empezar a realizar mis proyectos
 comenzar mi carrera de desarrollador
 
 Mi pasion es Python y Java
+
+Me interesa blockchain
