@@ -1,0 +1,9 @@
+Este es mi primera practica con Git
+
+Espero poder enteder bien el proceso de git y github
+
+para empezar a realizar mis proyectos
+
+comenzar mi carrera de desarrollador
+
+Mi pasion es Python y Java
