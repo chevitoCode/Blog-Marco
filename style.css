@@ -1,6 +1,17 @@
 body {
     background-color: azure;
 }
+.titulo{
+    text-align: center;
+    color: darkviolet;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.lista{
+    background-color: black;
+    color: aliceblue;
+    display: inline-block;
+}
 p {
     color: brown;
     text-align: center;
