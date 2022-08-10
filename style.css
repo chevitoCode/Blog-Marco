@@ -1,18 +1,21 @@
-body {
-    background-color: azure;
-}
-.titulo{
+#titulo{
     text-align: center;
     color: darkviolet;
-    font-size: 20px;
+    margin: auto;
+    font-size: 30px;
     font-family: 'Courier New', Courier, monospace;
+    
 }
-.lista{
-    background-color: black;
+#lista{
     color: aliceblue;
+    background-color: black;
     display: inline-block;
 }
+li{
+    color: whitesmoke;
+    background-color: red;
+}
 p {
-    color: brown;
+    color: royalblue;
     text-align: center;
 }
